@@ -11,3 +11,5 @@ On a global scale, life expectancy helps international organizations identify ar
 Remove outliers from the columns
 Drop non-contributing factors and features 
 Perform different analysis to get better view of data including Univariate, Bivariate & Multivariate Analysis
+Some of the screenshots from the python file:
+![image](https://github.com/Nirali-khirsaria/Healthcare-Analysis/blob/0d44d25ac427a6a48bd627a912d0d67420dad850/EDA_2.png)
