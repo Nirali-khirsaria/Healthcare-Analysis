@@ -1,4 +1,4 @@
-<h1>Global Life Expectancy Predictive Analytics
+#Global Life Expectancy Predictive Analytics
 
 The main goal for this project was to perform exploratory data analysis, build dashboards, and apply machine learning techniques to predict life expectancy using global healthcare and economic data.
 
