@@ -36,6 +36,6 @@ Multivariant Analysis:
 ### 
 <p align="center">
   <img src="(https://github.com/Nirali-khirsaria/Healthcare-Analysis/blob/94338fe6b313b046a5ecee9e8d700c130727c832/D2.png)" width="350">
-  <img src="images/product_dashboard.png" width="350">
+  <img src="(https://github.com/Nirali-khirsaria/Healthcare-Analysis/blob/0bf31bdcc27410d3a744fb9b9d76a179d953bf36/D3.png)" width="350">
 </p>
 
