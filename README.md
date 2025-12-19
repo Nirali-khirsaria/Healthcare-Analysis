@@ -20,7 +20,12 @@ Highlight of EDA:
 ![image 1](https://github.com/Nirali-khirsaria/Healthcare-Analysis/blob/8c0f18d527cfc579913e7d1264e084bc843cc5c4/EDA_1.png)
 
 Multivariant Analysis:
-![image 3 ]()
+![image 3](https://github.com/Nirali-khirsaria/Healthcare-Analysis/blob/775646afcafc4b53dd526eb10de6d50d53d67d39/EDA_3.png)
+* As per this data, Adult death rates decrease over the years, while people live longer on average
+* Infant deaths stay low, with small changes over time
+* Lower death rates are linked to higher life expectancy
+* Overall trends show that better healthcare improves life expectancy
 
 # 📈 Dashboards & Visualizations
-
+Made charts and interactive dashboards
+<img src="images/dashboard.png" width="600">
