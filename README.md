@@ -28,17 +28,14 @@ Multivariant Analysis:
 
 
 ## 📊 Dashboards Overview
-
-<img src="https://github.com/Nirali-khirsaria/Healthcare-Analysis/blob/949f2d19e820c3ea840f3d606b512d91741e8785/D1.png" width="600">
-
 ###
 <p align="center">
-  <img src="images/sales_dashboard.png" width="700">
+ <img src="https://github.com/Nirali-khirsaria/Healthcare-Analysis/blob/949f2d19e820c3ea840f3d606b512d91741e8785/D1.png" width="700">
 </p>
 
 ### 
 <p align="center">
-  <img src="images/customer_dashboard.png" width="350">
+  <img src="(https://github.com/Nirali-khirsaria/Healthcare-Analysis/blob/94338fe6b313b046a5ecee9e8d700c130727c832/D2.png)" width="350">
   <img src="images/product_dashboard.png" width="350">
 </p>
 
