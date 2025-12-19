@@ -28,7 +28,7 @@ Multivariant Analysis:
 
 
 ## 📊 Dashboards Overview
-<p align="center">
+<p align="left">
  <img src="https://github.com/Nirali-khirsaria/Healthcare-Analysis/blob/949f2d19e820c3ea840f3d606b512d91741e8785/D1.png" width="700">
 </p>
 
